@@ -20,7 +20,7 @@ public class ScrollUpDown {
 	//b.executeScript("window.scrollBy(0,500);", "");
 	
 	WebElement  f = driver.findElement(By.xpath("//b[contains(text(),'Recent')]"));
-//	b.executeScript("arguments[0].scrollIntoView();", f);
+//	b.executeScript("arguments[0].scrollIntoView();", f);;;;;;;;;;
 	
 	
 	
